@@ -1,0 +1,258 @@
+// These are the styles to make some of the templates look extra nice.
+// Feel free to remove these styles for production!
+
+// Body Styles for all tamplates!
+body,
+html, 
+.body {
+	background: #f3f3f3 !important;
+}
+.header {
+	background: #D7D7D6;
+}
+.header p {
+	color: #6E6E6E;
+	padding-top: 15px;
+}
+.container.header {
+	background: #f3f3f3;
+}
+
+.body-drip {
+	border-top: 8px solid #663399;
+}
+
+// Full Width Headers
+.header .columns {
+	padding-bottom: 0;
+}
+.header .wrapper-inner {
+	padding: 20px;
+}
+
+.header .container {
+	background: transparent;
+}
+
+// Social Media
+table.button.facebook table td {
+	background: #3B5998 !important;
+	border-color: #3B5998;
+}
+
+table.button.twitter table td {
+	background: #1daced !important;
+	border-color: #1daced;
+}
+
+table.button.google table td {
+	background: #DB4A39 !important;
+	border-color: #DB4A39;
+}
+
+.wrapper.secondary {
+	background: #f3f3f3;
+}
+
+// Body Styles for all tamplates END!
+
+
+//For Omnicore Gorchuk
+// Body Styles
+//HEADER
+
+.header_omn p > a {
+	color: #6E6E6E;
+	padding-top: 9px;
+	font-size: 17px;
+	padding-right: 9px;
+	text-transform: uppercase;
+}
+.header_omn p > a:hover {
+	color: brown;
+}
+.wrapper.header_omn{
+	background: #FFFFFF;
+	border-bottom: 2px solid #D7D7D6;
+	height: 83px;
+}
+img.Logo_urban {
+	outline: none;
+	text-decoration: none;
+	-ms-interpolation-mode: bicubic;
+	width: auto;
+	max-width: 100%;
+	clear: both;
+	display: block;
+	padding-top: 7px;
+	padding-left: 28px;
+}
+table.header_omn {
+    background: #fefefe;
+    width: 660px;
+    margin: 0 auto;
+    Margin: 0 auto;
+    text-align: inherit;
+}
+
+//CONTENT
+
+table.content_omn {
+	background: #fefefe;
+	width: 660px;
+	margin: 0 auto;
+	Margin: 0 auto;
+	text-align: inherit;
+}
+.content_top_omn {
+	color: #48474C;
+	font-size: 0.9rem;
+	padding-left: 15px;
+}
+.content_top_omn > strong {
+	font-weight: 800;
+}
+.content_first_omn {
+	font-size: 1.4rem;
+	font-weight: 600;
+	padding-left: 15px;
+	text-transform: uppercase;
+	z-index: 2;
+	position: absolute;
+}
+.Content_second {
+	margin-bottom: 22px;
+}
+
+img.Main_image_omn {
+	margin-top: 49px;
+	border-bottom: 1px solid #D7D7D6;
+	padding-bottom: 52px;
+}
+.Rounded_Rectangle {
+	position: absolute;
+	padding: 12px 15px;
+	z-index: 1;
+}
+.content_omn {
+	padding-top: 49px;
+}
+.shop_now {
+	position: absolute;
+	top: 50%;
+	right: 22.5%;
+	color: #FFFFFF;
+	font-size: 1.5rem;
+	border: 2px solid;
+	padding: 18px 119px;
+}
+.shop_now:hover {
+	color: brown;
+}
+.Returns_track_need {
+	text-transform: uppercase;
+	font-size: 1.2rem;
+	font-weight: 600;
+	margin-top: 60px;
+	color: #161616;
+	border-right: 1px solid #D7D7D6;
+}
+.Easily {
+	color: #161616;
+	font-size: 0.9rem;
+	padding-left: 25px;
+	border-right: 1px solid #D7D7D6;
+	margin-top: -10px;
+}
+.Track {
+	color: #161616;
+	font-size: 0.9rem;
+	padding-left: 30px;
+	border-right: 1px solid #D7D7D6;
+	margin-top: -10px;
+}
+.Contact {
+	color: #161616;
+	font-size: 0.9rem;
+	padding-left: 12px;
+	margin-top: -10px;
+}
+.Returns {
+	border-right: none;
+}
+.social_icon{
+	padding-top: 26px;
+	cursor: pointer;
+}
+.Follow_us{
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 1.5rem;
+	border-right: 2px solid #CFCFCE;
+	margin-top: 9px;	
+	padding-left: 12px;
+}
+.network_social{
+	background-color: #F0F0F0;
+	height: 80px;
+}
+
+
+//NAVIGATION
+
+.menu_navigation {
+	background-color: #F0F0F0;
+	height: 159px;
+}
+.UrbanTeens{
+	padding-top: 42px;
+	text-transform: uppercase;
+	font-size: 0.8rem;
+	padding-left: 18px;
+	color: #5A5A5A;
+}
+.pay_icon {
+	padding-top: 38px;
+}
+.pay_icon_wrapp {
+	padding-right: 5px;
+}
+.p_menu_navigation > a {
+	font-size: 0.8rem;
+	color: #5A5A5A;
+	text-decoration: underline;
+}
+.p_menu_navigation > a:hover {
+	color: brown;
+}
+.p_menu_navigation {
+	padding-right: 68px;
+	padding-top: 8px;
+}
+
+//FOOTER
+
+.Contact_us_wrapp {
+	height: 132px;
+	background-color: #FFFFFF;
+	width: 660px;
+}
+.Contact_us p {
+	font-size: 0.7rem;
+	margin-bottom: 5px;
+	color: #5A5A5A;
+}
+.Contact_us  p > a {
+	color: #5A5A5A;
+	text-decoration: underline;
+}
+.Contact_us  p > a:hover {
+	color: brown;
+}
+.Contact_us {
+	margin-top: 23px;
+	margin-left: -30px;
+}
+
+//For Omnicore END
+
